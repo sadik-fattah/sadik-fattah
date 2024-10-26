@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sadik_fattah_efd41b3159f3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadik_fattah_efd41b3159f3" height="30" width="40" /></a>
+<a href="https://dev.to/sadik_fattah_efd41b3159f3" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" alt="sadik_fattah_efd41b3159f3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadik-fattah-a2034a29b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadik-fattah-a2034a29b" height="30" width="40" /></a>
 <a href="https://fb.com/sadik.fattah.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadik.fattah.7" height="30" width="40" /></a>
 <a href="https://instagram.com/jakinzo_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakinzo_developer" height="30" width="40" /></a>
